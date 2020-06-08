@@ -1,5 +1,10 @@
 node_modules
+uploads/*
+!uploads/gitkeep
 build
 npm-debug.log
 .env
 .DS_Store
+
+
+*.sqlite
