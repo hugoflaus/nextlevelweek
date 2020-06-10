@@ -37,5 +37,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   $ npm run knex:seed
 
   # Iniciar o projeto
-  $ npm run devee
+  $ npm run dev
 ```
